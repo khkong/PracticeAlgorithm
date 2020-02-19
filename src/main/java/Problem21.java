@@ -50,6 +50,3 @@ public class Problem21 {
         }
     }
 }
-
-  136  git config --local user.name "khkong"
-          137  git config --local user.email "khkong0928@naver.com"
